@@ -55,7 +55,7 @@ class LinkedList
     public static void main(String [] args) 
     { 
         LinkedList llist = new LinkedList(); 
-        for (int i=13; i>0; --i)
+        for (int i=15; i>0; --i)
         { 
             llist.push(i); 
 
